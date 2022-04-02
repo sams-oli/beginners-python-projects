@@ -24,7 +24,7 @@ while begin == 1:
     
     elif operator == 3:
         print(f'{first_choice} * {second_choice} = {first_choice * second_choice}')
-        
+
     else:
         print(f'{first_choice} / {second_choice} = {first_choice / second_choice}')
     
